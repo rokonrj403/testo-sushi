@@ -4,7 +4,7 @@ body{
 }
 
 .flexible-container{
-    height: 500px;
+    height: 550px;
     padding-bottom: 150px;
     display: flex;
 }
