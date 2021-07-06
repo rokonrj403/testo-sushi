@@ -57,9 +57,6 @@ body{
     padding: 10px 40px;
     border-radius: 10px;
 }
-.mid-width-text{
-
-}
 .mid-width-text h1{
     font-size: 40px;
 }
@@ -184,4 +181,55 @@ body{
 .app-text p{
     font-size: 20px;
     margin: 0%;
+}
+.deliver-section{
+    height: 500px;
+    padding-top: 40px;
+    background-image: url(img/banner-4.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.deliver-text h4{
+    font-size: 45px;
+    margin-bottom: 0%;
+}
+.deliver-text h1{
+    font-size: 60px;
+    margin-bottom: 0%;
+    color: black;
+    font-weight: 700;
+}
+.deliver-text p{
+    font-size: 20px;
+    color:black;
+}
+.footer-section{
+    margin: 5%;
+    width: 500px;
+    margin-left: 32%;
+    margin-right: 50%;
+}
+.footer-section .logo-img img{
+    width: 250px;
+    margin-bottom: 2%;
+    margin-left: 20%;
+
+    
+}
+.social-icon-flex{
+    width: 500px;
+    display: flex;
+    padding-bottom: 5%;
+    
+}
+.social-icon-flex .social-icon img{
+    width: 50px;
+    padding: 15px;
+    margin-left: 15px;
+    margin-right: 15%;
+}
+.footer-txt{
+    font-size: 20px;
+    text-align: center;
 }
