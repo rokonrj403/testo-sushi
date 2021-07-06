@@ -145,3 +145,43 @@ body{
     text-align: center;
     margin: 0%;
 }
+
+.app-section{
+    height: 400px;
+    background-color: #E84E1D;
+    display: flex;
+}
+.app-area{
+    width: 20%;
+    margin: 2% 15%;
+}
+.app-section img{
+    width: 100%;
+}
+.icon{
+    width: 150px;
+    display: flex;
+    padding: 2%;
+    margin: 2%;
+}
+.store-icon{
+    width: 150%;
+    height: 100%;
+    padding: 2%;
+}
+
+.app-text{
+    color: white;
+}
+.app-text h3{
+    font-size: 40px;
+    margin: 2%;
+}
+.app-text h1{
+    font-size: 80px;
+    margin: 0%;
+}
+.app-text p{
+    font-size: 20px;
+    margin: 0%;
+}
